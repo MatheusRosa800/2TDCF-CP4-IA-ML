@@ -23,7 +23,8 @@ O desafio consiste em desenvolver um programa que receba um prompt e utilize o [
 ## O que é Jailbreak
 Jailbreak é um termo usado para descrever o processo de remover restrições impostas por fabricantes de software ou dispositivos, permitindo que os usuários acessem funcionalidades ou executem códigos que normalmente seriam bloqueados. Em modelos de linguagem e sistemas de IA, o jailbreak refere-se a técnicas que exploram vulnerabilidades para obter respostas que violam as diretrizes de uso, como a geração de conteúdo inapropriado, enviesado ou que infringe políticas de segurança e ética.
 
-
+## O que é fine-tunning
+O ajuste fino (ou fine-tuning em inglés) é uma técnica de treinamento que consiste na reutilização de arquiteturas de CNN (rede neural convolucional) predefinidas e pré-treinadas. Basicamente, permite que você pegue um modelo treinado que executa bem uma determinada tarefa e aproveite todo o seu conhecimento para resolver uma nova tarefa específica; embora, é claro, seguindo determinadas regras.
 
 
 
