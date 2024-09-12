@@ -13,7 +13,7 @@ Checkpoint realizado com o intuito de colocar em prática todos os conhecimentos
 
 Há três notebooks desenvolvidos para aprofundar o entendimento sobre modelos de linguagem. 
 
-1.  O primeiro foca no entendimento de LLMs (Large Language Models), abordando conceitos básicos e arquiteturas utilizadas;
+1.  O primeiro foca no entendimento de LLMs (Large Language Models), abordando conceitos básicos e arquiteturas utilizadas.
 2.  O segundo explora o funcionamento de tokens e as diferenças entre diversos modelos de linguagem, ajudando a entender como eles processam e geram texto. 
 3.  O terceiro notebook é um desafio proposto pelo professor, onde os alunos devem aplicar os conhecimentos adquiridos para resolver um problema prático relacionado ao uso de modelos de linguagem.
 
