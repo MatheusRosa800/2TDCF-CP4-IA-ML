@@ -18,7 +18,7 @@ Há três notebooks desenvolvidos para aprofundar o entendimento sobre modelos d
 3.  O terceiro notebook é um desafio proposto pelo professor, onde os alunos devem aplicar os conhecimentos adquiridos para resolver um problema prático relacionado ao uso de modelos de linguagem.
 
 ## Desafio
-O desafio consiste em desenvolver um programa que receba um prompt e utilize o [Jailbreak Classifier](https://huggingface.co/jackhhao/jailbreak-classifier) para verificar se há a presença de um jailbreak. A proposta envolve o uso dessa ferramenta para analisar entradas de texto e identificar qualquer tentativa de contornar restrições de modelos de linguagem ou outros sistemas de segurança.
+O desafio consiste em desenvolver um programa que receba um prompt e utilize o [Jailbreak Classifier](https://huggingface.co/jackhhao/jailbreak-classifier) para verificar se há a presença de um jailbreak. Após fazer a validação de jailbreak do prompt utlizar o LLM [TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0) para gerar o resto do prompt. A proposta envolve o uso dessa ferramenta para analisar entradas de texto e identificar qualquer tentativa de contornar restrições de modelos de linguagem ou outros sistemas de segurança.
 
 ## O que é Jailbreak
 Jailbreak é um termo usado para descrever o processo de remover restrições impostas por fabricantes de software ou dispositivos, permitindo que os usuários acessem funcionalidades ou executem códigos que normalmente seriam bloqueados. Em modelos de linguagem e sistemas de IA, o jailbreak refere-se a técnicas que exploram vulnerabilidades para obter respostas que violam as diretrizes de uso, como a geração de conteúdo inapropriado, enviesado ou que infringe políticas de segurança e ética.
