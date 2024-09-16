@@ -26,5 +26,9 @@ Jailbreak é um termo usado para descrever o processo de remover restrições im
 ## O que é fine-tunning
 O ajuste fino (ou fine-tuning em inglés) é uma técnica de treinamento que consiste na reutilização de arquiteturas de CNN (rede neural convolucional) predefinidas e pré-treinadas. Basicamente, permite que você pegue um modelo treinado que executa bem uma determinada tarefa e aproveite todo o seu conhecimento para resolver uma nova tarefa específica; embora, é claro, seguindo determinadas regras.
 
+## Como a combinação de duas LLMs pode ser feita para melhorar a segurança de uso?
+1. Duas LLMs podem ser usadas em conjunto para validar as respostas uma da outra. Se uma LLM gerar uma resposta, a outra pode verificar se essa resposta atende a critérios de segurança. 
 
+2. As LLMs podem ser treinadas ou ajustadas para funções específicas. Por exemplo, uma LLM pode se especializar na detecção de conteúdo malicioso, enquanto a outra se foca na geração de respostas apropriadas
 
+3. Ao usar duas LLMs diferentes, pode mitigar o risco de um ataque jailbreak funcionar. Mesmo que um atacante consiga enganar a primeira LLM para gerar uma resposta inadequada, a segunda LLM pode servir como uma barreira adicional e um segundo checker. Só ai, o prompt seria gerado.
