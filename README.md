@@ -1,7 +1,7 @@
 # FIAP - 4° Checkpoint - IA & Machine Learning 
 
 ## Introdução
-Checkpoint realizado com o intuito de colocar em prática todos os conhecimentos em Machine Learning adquiridos na matéria de IA & ML, ministrada pelo [Professor Guilherme Seidyo].
+Checkpoint realizado com o intuito de colocar em prática todos os conhecimentos em Machine Learning adquiridos na matéria de IA & ML, ministrada pelo [Professor Guilherme Seidyo](https://www.linkedin.com/in/guilherme-aldeia-0a8a0b21b/).
 
 ## Participantes
 - Henrique Koji
